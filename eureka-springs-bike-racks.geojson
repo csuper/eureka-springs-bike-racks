@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bike",
+        "marker-symbol": "bicycle",
         "name": "Bombadils",
         "address": "580 US-62"
       }
@@ -26,7 +26,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bike",
+        "marker-symbol": "bicycle",
         "name": "Adventure Mountain Outfitters",
         "address": "151 Spring St"
       }
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bike",
+        "marker-symbol": "bicycle",
         "name": "Eureka Springs Carnegie Public Library",
         "address": "194 Spring St"
       }
@@ -56,7 +56,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bike",
+        "marker-symbol": "bicycle",
         "name": "Brews",
         "address": "2 Pine St"
       }
@@ -71,7 +71,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bike",
+        "marker-symbol": "bicycle",
         "name": "Eureka Springs City Hall",
         "address": "44 S Main St"
       }
