@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.772280,
+          36.415179
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bike",
+        "name": "Bombadils",
+        "address": "580 US-62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.736945,
+          36.405505
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bike",
+        "name": "Adventure Mountain Outfitters",
+        "address": "151 Spring St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.736794,
+          36.406997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bike",
+        "name": "Eureka Springs Carnegie Public Library",
+        "address": "194 Spring St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.738542,
+          36.4404336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bike",
+        "name": "Brews",
+        "address": "2 Pine St"
+      }
+    },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.738312,
+          36.401072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bike",
+        "name": "Eureka Springs City Hall",
+        "address": "44 S Main St"
+      }
+    }
+  ]
+}
